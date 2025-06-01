@@ -4,7 +4,7 @@ This project showcases a deep learning pipeline using CNNs to classify satellite
 
 ## 📁 Data Source
 Satellite Imgaes from [Satellite Image Classification](https://www.kaggle.com/datasets/mahmoudreda55/satellite-image-classification). 
-Split Data Image for build model from [Satellite_dataset_split]([https://drive.google.com/file/d/1--d07m7J4CniV6pfScx_S6sde5XJu05J/view?usp=drive_link](https://drive.google.com/drive/folders/1hlZ0AoyLmD-GM3TND6EdLArtIrK-J-q6?usp=sharing)).
+Split Data Image for build model from [Satellite_dataset_split](https://drive.google.com/file/d/1--d07m7J4CniV6pfScx_S6sde5XJu05J/view?usp=drive_link).
 Detail of dataset satellite
 - Total Images: 5631 gambar
 - Classes: 4 kelas (cloudy, desert, green_area, water)
