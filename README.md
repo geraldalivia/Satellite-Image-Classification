@@ -53,10 +53,10 @@ Dataset Split:
 - Callbacks: Early stopping, learning rate reduction
 
 ## 📈 Performance
-Test Accuracy: 93.74%
-Test Loss: 0.1575
-Training Time: 20 epochs
-Model Size: ~50-250 MB
+Test Accuracy: 93.74% <br>
+Test Loss: 0.1575 <br>
+Training Time: 20 epochs <br>
+Model Size: ~50-250 MB <br>
 
 ## 📦 Model Export
 There are three model that i saved into format, include:
