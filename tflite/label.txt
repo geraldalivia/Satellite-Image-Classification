@@ -1,4 +1,0 @@
-cloudy
-desert
-green_area
-water
